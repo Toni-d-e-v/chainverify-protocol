@@ -101,6 +101,7 @@ By combining decentralization, transparency, and robust security measures, Chain
 ## 3. Benefits of the ChainVerify System
 
 ChainVerify offers a multitude of advantages for both institutions and individuals involved in document issuance and verification.
+
 3.1. Advantages for Institutions and Organizations
 
 -    Enhanced Security: Blockchain technology and cryptography safeguard documents from unauthorized access, modification, or loss.
