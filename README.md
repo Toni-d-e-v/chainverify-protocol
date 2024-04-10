@@ -172,6 +172,7 @@ ChainVerify utilizes a combination of technologies to achieve secure and efficie
 ## 6. The Impact of ChainVerify on the Future
 
 ChainVerify has the potential to significantly impact the future of document management:
+
 6.1. Transformation of Document Management
 
 -    Streamlined and secure document issuance and verification processes.
