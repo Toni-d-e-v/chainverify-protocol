@@ -147,9 +147,10 @@ ChainVerify has the potential to revolutionize document management across variou
 -    Streamlined document sharing and verification facilitate collaboration with partners and clients.
 -    Enhanced security safeguards sensitive business documents from unauthorized access.
 
-5. Technical Implementation of ChainVerify
+## 5. Technical Implementation of ChainVerify
 
 ChainVerify utilizes a combination of technologies to achieve secure and efficient document verification:
+
 5.1. IPFS: Distributed Document Storage
 
 -    Documents are stored on a distributed file system like IPFS, ensuring high availability and data resilience.
