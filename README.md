@@ -1,7 +1,7 @@
 ChainVerify: A Decentralized Document Verification System
 Table of Contents
 
-- Introduction: #introduction
+- Introduction: 
     -    1.1. The Importance of Document Verification in the Digital Age: #importance-verification
     -    1.2. Shortcomings of Centralized Systems: #centralized-shortcomings
     -    1.3. Advantages of a Decentralized Approach: #decentralized-advantages
