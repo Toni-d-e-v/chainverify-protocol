@@ -98,7 +98,7 @@ By combining decentralization, transparency, and robust security measures, Chain
 -    The tamper-proof nature of the blockchain eliminates concerns about document forgery.
 -    Transparent verification allows anyone to confirm the validity of a document.
 -    Users can be confident in the legitimacy of documents issued and verified on the ChainVerify platform.
-3. Benefits of the ChainVerify System
+## 3. Benefits of the ChainVerify System
 
 ChainVerify offers a multitude of advantages for both institutions and individuals involved in document issuance and verification.
 3.1. Advantages for Institutions and Organizations
