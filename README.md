@@ -2,33 +2,33 @@ ChainVerify: A Decentralized Document Verification System
 Table of Contents
 
 - Introduction: #introduction
-    --    1.1. The Importance of Document Verification in the Digital Age: #importance-verification
-    --    1.2. Shortcomings of Centralized Systems: #centralized-shortcomings
-    --    1.3. Advantages of a Decentralized Approach: #decentralized-advantages
+    -    1.1. The Importance of Document Verification in the Digital Age: #importance-verification
+    -    1.2. Shortcomings of Centralized Systems: #centralized-shortcomings
+    -    1.3. Advantages of a Decentralized Approach: #decentralized-advantages
 - ChainVerify: A Blockchain-Based Solution: #chainverify-solution
-    --    2.1. Decentralization and User Autonomy: #decentralization-autonomy
-    --    2.2. Unparalleled Transparency and Data Integrity: #transparency-integrity
-    --    2.3. Enhanced Security and Document Protection: #security-protection
-    --    2.4. Building Trust in Document Authenticity: #trust-authenticity
+    -    2.1. Decentralization and User Autonomy: #decentralization-autonomy
+     - 2.2. Unparalleled Transparency and Data Integrity: #transparency-integrity
+     - 2.3. Enhanced Security and Document Protection: #security-protection
+    -    2.4. Building Trust in Document Authenticity: #trust-authenticity
 - Benefits of the ChainVerify System: #benefits-chainverify
-    --    3.1. Advantages for Institutions and Organizations: #benefits-institutions
-    --    3.2. Benefits for Individuals and Users: #benefits-individuals
-    --    3.3. Comparison with Traditional Systems: #comparison-traditional
+    -    3.1. Advantages for Institutions and Organizations: #benefits-institutions
+      -   3.2. Benefits for Individuals and Users: #benefits-individuals
+     - 3.3. Comparison with Traditional Systems: #comparison-traditional
 - Real-World Applications of ChainVerify: #applications-chainverify
-    --    4.1. Education: Verification of Diplomas and Certificates: #education-verification
-    --    4.2. Government: Identity and Issued Document Verification: #government-verification
-    --    4.3. Businesses: Secure Contract and Document Management: #business-management
+    -    4.1. Education: Verification of Diplomas and Certificates: #education-verification
+    -    4.2. Government: Identity and Issued Document Verification: #government-verification
+    -    4.3. Businesses: Secure Contract and Document Management: #business-management
 - Technical Implementation of ChainVerify: #technical-implementation
-     --   5.1. IPFS: Distributed Document Storage: #ipfs-storage
-     --   5.2. Ethereum Blockchain: Metadata Storage and Authenticity Verification: #ethereum-blockchain
-     --   5.3. Cryptographic Methods: Protecting Integrity and Preventing Forgery: #cryptographic-methods
+     -   5.1. IPFS: Distributed Document Storage: #ipfs-storage
+     -   5.2. Ethereum Blockchain: Metadata Storage and Authenticity Verification: #ethereum-blockchain
+     -   5.3. Cryptographic Methods: Protecting Integrity and Preventing Forgery: #cryptographic-methods
 - The Impact of ChainVerify on the Future: #future-chainverify
-      --  6.1. Transformation of Document Management: #transformation-management
-      --  6.2. Increased Trust in the Digital Sphere: #trust-digital
-      --  6.3. Enabling New Possibilities and Innovation: #possibilities-innovation
+      -  6.1. Transformation of Document Management: #transformation-management
+      -  6.2. Increased Trust in the Digital Sphere: #trust-digital
+      -  6.3. Enabling New Possibilities and Innovation: #possibilities-innovation
 - Conclusion: #conclusion
-      --  7.1. Summary of ChainVerify's Advantages: #summary-advantages
-      --  7.2. The Potential and Future of Decentralized Document Verification: #future-verification
+      -  7.1. Summary of ChainVerify's Advantages: #summary-advantages
+      -  7.2. The Potential and Future of Decentralized Document Verification: #future-verification
 
 Appendices
 
