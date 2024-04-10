@@ -27,8 +27,10 @@
       -  6.2. Increased Trust in the Digital Sphere: #trust-digital
       -  6.3. Enabling New Possibilities and Innovation: #possibilities-innovation
 - Conclusion: #conclusion
-      -  7.1. Summary of ChainVerify's Advantages: #summary-advantages
-      -  7.2. The Potential and Future of Decentralized Document Verification: #future-verification
+  
+   -  7.1. Summary of ChainVerify's Advantages: #summary-advantages
+  
+  -  7.2. The Potential and Future of Decentralized Document Verification: #future-verification
 
 Appendices
 
