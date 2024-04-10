@@ -33,12 +33,6 @@
   
   -  7.2. The Potential and Future of Decentralized Document Verification: #future-verification
 
-Appendices
-
- -   Appendix A: Detailed Technical Description of the System: #appendix-technical
- -   Appendix B: Use Case Examples of ChainVerify Across Industries: #appendix-use-cases
-  -  Appendix C: Glossary of Terms: #appendix-glossary
-  -  Appendix D: Additional Information and Resources: #appendix-resources
 
 ## 1. Introduction
 1.1. The Importance of Document Verification in the Digital Age
