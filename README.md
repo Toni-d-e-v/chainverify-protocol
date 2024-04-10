@@ -23,9 +23,10 @@
      -   5.2. Ethereum Blockchain: Metadata Storage and Authenticity Verification: #ethereum-blockchain
      -   5.3. Cryptographic Methods: Protecting Integrity and Preventing Forgery: #cryptographic-methods
 - The Impact of ChainVerify on the Future: #future-chainverify
-      -  6.1. Transformation of Document Management: #transformation-management
-      -  6.2. Increased Trust in the Digital Sphere: #trust-digital
-      -  6.3. Enabling New Possibilities and Innovation: #possibilities-innovation
+  
+   -  6.1. Transformation of Document Management: #transformation-management
+  -  6.2. Increased Trust in the Digital Sphere: #trust-digital
+   -  6.3. Enabling New Possibilities and Innovation: #possibilities-innovation
 - Conclusion: #conclusion
   
    -  7.1. Summary of ChainVerify's Advantages: #summary-advantages
