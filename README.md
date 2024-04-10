@@ -1,4 +1,4 @@
-ChainVerify: A Decentralized Document Verification System
+# ChainVerify: A Decentralized Document Verification System
 ## Table of Contents
 
 - Introduction: 
