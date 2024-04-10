@@ -75,6 +75,11 @@ ChainVerify adopts a decentralized approach, eliminating the need for centralize
 -    Third-party verification is replaced by a secure and transparent blockchain-based system.
 -    Users retain ownership of their documents and control access permissions.
 
+## Issuing Authority and KYC Integration:
+
+To ensure the legitimacy and credibility of issued documents, ChainVerify implements a permissioned issuer model. Only authorized institutions or individuals who have undergone a Know Your Customer (KYC) process and been approved by the current smart contract owner can produce documents on the platform. This KYC process verifies the real-life identity of the issuer, adding an extra layer of trust to the document issuance process.
+
+This approach balances the benefits of decentralization with the need to maintain control over document issuance. It allows for a wider range of institutions to participate in the network while mitigating the risk of fraudulent document creation.
 2.2. Unparalleled Transparency and Data Integrity
 
 ChainVerify ensures complete transparency and immutability of document data through blockchain technology:
