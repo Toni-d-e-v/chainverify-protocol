@@ -1,5 +1,5 @@
 ChainVerify: A Decentralized Document Verification System
-Table of Contents
+## Table of Contents
 
 - Introduction: 
     -    1.1. The Importance of Document Verification in the Digital Age: #importance-verification
